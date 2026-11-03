@@ -12,3 +12,5 @@ Release binaries for this project are signed through SignPath Foundation.
 - **Security:** all maintainers use multi-factor authentication on GitHub and SignPath.
 - **Key handling:** the private key lives on SignPath's HSM and is never present on a build machine.
 - **Verification:** each signed release states the signing identity and the commit it was built from.
+- **Attribution:** Free code signing provided by SignPath.io, certificate by SignPath Foundation.
+- **Privacy:** this project contains no telemetry. It collects, transmits and stores no user data, and code signing happens on SignPath infrastructure, so no personal data is involved.
